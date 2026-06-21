@@ -5,7 +5,7 @@ DOMAIN, ap-cn02.emby.bangumi.ca
 
 # 非越
 DOMAIN-SUFFIX, sfcj.org
-
+DOMAIN-SUFFIX, emby.pro
 
 # Steam CDN
 DOMAIN-SUFFIX, steamserver.net
