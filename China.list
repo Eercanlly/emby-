@@ -1,2 +1,6 @@
-# Nya
+# Nya Emby
 DOMAIN-SUFFIX, bangumi.ca
+
+
+# Steam CDN
+DOMAIN-SUFFIX, steamserver.net
